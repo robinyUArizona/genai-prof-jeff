@@ -20,3 +20,4 @@ langchainhub
 sentence-transformers
 langchain-openai
 pdfkit
+opencv-python
