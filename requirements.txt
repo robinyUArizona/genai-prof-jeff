@@ -21,3 +21,5 @@ sentence-transformers
 langchain-openai
 pdfkit
 opencv-python
+markdown
+weasyprint
