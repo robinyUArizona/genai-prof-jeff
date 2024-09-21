@@ -19,6 +19,7 @@ datasets
 langchainhub
 sentence-transformers
 langchain-openai
+pydantic
 pdfkit
 opencv-python
 markdown
