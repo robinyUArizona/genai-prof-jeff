@@ -14,7 +14,7 @@ langchain
 langchain-community
 ipykernel
 pypdf
-chromadb
+chromadb==0.5.3
 datasets
 langchainhub
 sentence-transformers
