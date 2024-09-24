@@ -26,3 +26,4 @@ opencv-python
 markdown
 weasyprint
 duckduckgo-search
+streamlit
